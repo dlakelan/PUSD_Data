@@ -1,0 +1,22 @@
+Please place here various URLS and brief descriptions of data sets
+that are relevant to questions involving education either at CA state,
+regional or PUSD specific levels.
+
+CA Dept Education Downloadable data files page:
+
+https://www.cde.ca.gov/ds/sp/cl/
+
+
+CAASPP: The california current standardized testing system
+
+https://caaspp-elpac.cde.ca.gov/caaspp/ResearchFileList?ps=true&lstTestType=B&lstTestYear=2018&lstCounty=00&lstCntyNam=Select%20County...&lstFocus=btnApplySelections#dl
+
+which has links to full statewide student performance files, as well
+as entity files describing schools, districts, etc
+
+The full statewide files are available as zipped CSVs one per year, for example:
+
+http://caaspp-elpac.cde.ca.gov/caaspp/researchfiles/sb_ca2019_1_csv_v2.zip
+
+About 4MB zipped, 20MB unzipped.
+
