@@ -18,5 +18,7 @@ The full statewide files are available as zipped CSVs one per year, for example:
 
 http://caaspp-elpac.cde.ca.gov/caaspp/researchfiles/sb_ca2019_1_csv_v2.zip
 
-About 4MB zipped, 20MB unzipped.
+About 4MB zipped, 20MB unzipped.(note, that above is just the all subgroup, not the full data set)
+
+There are 4 files required for a single set of test score data. One is the test results, which can be retrieved by geographic entity (state, county, district, school) and include all possible tests (math, ela), subgroups (all, female, male, english learner. Etc.. etc). The basic file does not have entity names, rather those are included in an entity file (eg sb_ca2019entities_csv.zip). These are different by year. There are also separate data files for the set of subgroups and their ids (only ids are stored in the larger data set). And one for test id. Depending on your tools, you can use these 'as-is' by importing and referencing dynamically, or you can merge them by including the names in place of the ids in those other files). Which makes most sense likely depends on your goal and your familiarity with the tool youre using.
 
